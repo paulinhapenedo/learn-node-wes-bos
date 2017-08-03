@@ -1,0 +1,10 @@
+node_modules/
+Learn-Node-master/
+public/
+.DS_Store
+*.log
+.idea
+.gitkeep
+haters/
+variables.env
+variables.env.now
