@@ -1,6 +1,7 @@
 node_modules/
 Learn-Node-master/
 public/dist/
+public/uploads/
 .DS_Store
 *.log
 .idea
